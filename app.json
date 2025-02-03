@@ -1,23 +1,23 @@
 {
-  "name": "KAVI_EXE-V1",
-  "description": "Javascript WhatsApp bot made by YourName",
+  "name": "SeNu_EXE-V1",
+  "description": "Javascript WhatsApp bot made by Shenu Botz",
   "logo": "https://telegra.ph/file/04f33ed3a84d24104a9ef.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "KAVI-EXE=yrAnCQBT#yvhBojmMrn4vaYQlsyZbg7DPv0LVv253lTHolp7ql-A",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": https://www.imghippo.com/i/HWL2945ZSM.jpeg",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "`Hallow Dear Friend Thank Your Messege` 💧💗👽 *I Am Alive Now*",
       "required": true
     }   
 },
