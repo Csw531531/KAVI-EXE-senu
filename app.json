@@ -7,12 +7,12 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "KAVI-EXE=yrAnCQBT#yvhBojmMrn4vaYQlsyZbg7DPv0LVv253lTHolp7ql-A",
+      "description": "KAVI-EXE=anwXkazI#_5fdBg3ipMB1oYubcc-hMJkjuMqy9SMwfakfbGeVsMs",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": https://www.imghippo.com/i/HWL2945ZSM.jpeg",
+      "description":"https://telegra.ph/file/04f33ed3a84d24104a9ef.jpg",
       "required": true
     },
     
